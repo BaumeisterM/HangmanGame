@@ -1,0 +1,28 @@
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.AssemblyInfo.cs
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\baume\source\repos\Buddy\HangmanGame\bin\Debug\net10.0\HangmanGame.exe
+C:\Users\baume\source\repos\Buddy\HangmanGame\bin\Debug\net10.0\HangmanGame.deps.json
+C:\Users\baume\source\repos\Buddy\HangmanGame\bin\Debug\net10.0\HangmanGame.runtimeconfig.json
+C:\Users\baume\source\repos\Buddy\HangmanGame\bin\Debug\net10.0\HangmanGame.dll
+C:\Users\baume\source\repos\Buddy\HangmanGame\bin\Debug\net10.0\HangmanGame.pdb
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.dll
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\refint\HangmanGame.dll
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.pdb
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\HangmanGame.genruntimeconfig.cache
+C:\Users\baume\source\repos\Buddy\HangmanGame\obj\Debug\net10.0\ref\HangmanGame.dll
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\bin\Debug\net10.0\HangmanGame.exe
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\bin\Debug\net10.0\HangmanGame.deps.json
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\bin\Debug\net10.0\HangmanGame.runtimeconfig.json
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\bin\Debug\net10.0\HangmanGame.dll
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\bin\Debug\net10.0\HangmanGame.pdb
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.AssemblyInfo.cs
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.dll
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\refint\HangmanGame.dll
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.pdb
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\HangmanGame.genruntimeconfig.cache
+C:\Users\baume\source\repos\A Player's Guide\HangmanGame\obj\Debug\net10.0\ref\HangmanGame.dll

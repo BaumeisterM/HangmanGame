@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\classicmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:classicmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\gamemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:gamemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|c:\\users\\baume\\source\\repos\\a player\u0027s guide\\hangmangame\\survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F01270-BF82-7175-BE11-AD7AB45BAE70}|HangmanGame.csproj|solutionrelative:survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 15,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-22T11:47:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassicMode.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\ClassicMode.cs",
+              "RelativeDocumentMoniker": "ClassicMode.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\ClassicMode.cs*",
+              "RelativeToolTip": "ClassicMode.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:57:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SurvivalMode.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\SurvivalMode.cs",
+              "RelativeDocumentMoniker": "SurvivalMode.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\SurvivalMode.cs",
+              "RelativeToolTip": "SurvivalMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:56:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameMode.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\GameMode.cs",
+              "RelativeDocumentMoniker": "GameMode.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\GameMode.cs",
+              "RelativeToolTip": "GameMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:44:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:33:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\StartMenu.cs",
+              "RelativeDocumentMoniker": "StartMenu.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\StartMenu.cs",
+              "RelativeToolTip": "StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:32:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\baume\\source\\repos\\A Player\u0027s Guide\\HangmanGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:32:08.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 385,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿namespace HangmanGame;
+
+// Supported game modes
+public enum GameMode { Classic, Survival }
