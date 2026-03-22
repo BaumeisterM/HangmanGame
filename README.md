@@ -28,6 +28,3 @@ Files of interest
 
 Word list
 Place a `Hangmanlist.txt` file in the `Content` folder next to the application binary. Words should be comma-separated. If the file is not present the game will use a small fallback list.
-
-License
-This repository is provided as-is. Add a license file if you plan to publish it on GitHub.
